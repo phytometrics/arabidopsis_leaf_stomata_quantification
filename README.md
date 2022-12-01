@@ -11,6 +11,6 @@ Momoko Takagi1†, Rikako Hirata2†, Yusuke Aihara1,3, Yuki Hayashi4, Miya Mizu
 
 - LICENSE: t.b.d. planning for CC-BY-NC
 
-- Preprint available at bioRxiv: https://XXXXXXXXXXXXXXXXX
+- Preprint available at bioRxiv: https://www.biorxiv.org/content/10.1101/2022.11.30.518467v1
 
 - Google colaboratory notebook to execute inference: https://github.com/phytometrics/arabidopsis_leaf_stomata_quantification/blob/main/Arabidopsis_Stomatal_Aperture_Quantification_microscope_Notebook_221130.ipynb
