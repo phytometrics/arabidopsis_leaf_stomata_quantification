@@ -9,7 +9,7 @@ Momoko Takagi1†, Rikako Hirata2†, Yusuke Aihara1,3, Yuki Hayashi4, Miya Mizu
 
 ![image-20221130124544218](./assets/image-20221130124544218.png)
 
-- LICENSE: t.b.d. planning for CC-BY-NC
+- LICENSE: CC-BY-NC 4.0
 
 - Preprint available at bioRxiv: https://www.biorxiv.org/content/10.1101/2022.11.30.518467v1
 
